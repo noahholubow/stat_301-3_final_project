@@ -2,7 +2,7 @@
 title: "Final Project Data Memo"
 author: "Dylan Clausen, Noah Holubow, Max Olander, Max Tokman"
 date: "04/07/2021"
-output:
+output: 
   html_document: default
   pdf_document: default
 ---
